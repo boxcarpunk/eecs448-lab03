@@ -1,0 +1,39 @@
+body
+{
+    background-color: blue;
+    color: white;
+    font-family: sans-serif;
+    font-size: 20pt;
+    
+    background-image: url(https://metamarkets.com/wp-content/uploads/2013/04/mmx-logo-icon-transparent.png);
+	background-size: 25%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: right top;
+}
+
+p.biography
+{
+
+	color: white;
+	font-family: sans-serif;
+    font-size: 12pt;
+
+}
+
+a
+{
+
+	color: white;
+	background-color: blue;
+	font-size: 15pt;
+
+}
+
+a:hover
+{
+
+	color: blue;
+	background-color: white;
+
+}
